@@ -10,5 +10,6 @@
 6. rating - рейтинг
 7. members\r - количество фанатов
 
-Ссылка на исходный красивый датасет: https://drive.google.com/file/d/1mAPJGrQCYTtADdoz49XmYwXHIhtvPlq_/view?usp=share_link
+Ссылка на исходный красивый датасет: https://drive.google.com/file/d/1mAPJGrQCYTtADdoz49XmYwXHIhtvPlq_/view?usp=share_link 
+
 Ссылка на предобработанный красивый датасет: https://drive.google.com/file/d/11sFB21osqvc518FXfWrT9oZAD_Jy2aDA/view?usp=share_link
